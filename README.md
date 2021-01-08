@@ -1,6 +1,12 @@
 # utl-current-state-of-reading-and-writing-sas7bdats--sas7bcats--V5-V8-SAS-transport-files
 Current state of reading and writing SAS V9.4 SAS7bdats, SAS7bcats, and V5/V8 xport files without SAS. 
-Current state of reading and writing SAS V9.4 SAS7bdats, SAS7bcats, and V5/V8 xport files without SAS.        
+
+GitHub                                                                                                                      
+https://tinyurl.com/y4xgeyxy                                                                                                
+https://github.com/rogerjdeangelis/utl-current-state-of-reading-and-writing-sas7bdats--sas7bcats--V5-V8-SAS-transport-files 
+                                                                                                                            
+Read and write SAS files without any SAS installation                                                                       
+
                                                                                                               
 Read and write SAS files without any SAS installation                                                         
 Writing SAS7bdats is not open source yet. Writing V5/V8 transport files is open source.                       
